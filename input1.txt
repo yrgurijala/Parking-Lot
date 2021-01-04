@@ -1,0 +1,10 @@
+3
+Ferrari 9   12  34
+Audi    10  20  5
+Nissan  12  53  23
+Mustang 13  34  26
+Ferrari 14  35  56
+Mustang 14  43  23
+Nissan  15  45  12
+Audi    16  34  29
+Mustang 18  25  32
