@@ -1,4 +1,3 @@
-3
 Ferrari 9   12  34
 Audi    10  20  5
 Nissan  12  53  23
